@@ -3,7 +3,7 @@ package com.example.myapplication;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-//Phuc
+//Phuc Vu
 public class MainActivity extends AppCompatActivity {
 
     @Override
