@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     //Phuc Vu
-    // Tao là Toại Nguyễn đây, Có chiện gì hong 
+    // Tao là Toại Nguyễn đây, Có chiện gì hong
+    //trinh olkokok
+
 }
